@@ -1,4 +1,4 @@
-<h1>使用触发器自动生成表 但是在11版本下 并不能创建全局主键</h1>
+<h1>使用触发器自动生成表 </h1>
 create table tbl_inherits_test
 (
     a int ,
